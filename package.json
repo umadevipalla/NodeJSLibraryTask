@@ -1,0 +1,20 @@
+{
+  "name": "pippin-technologies",
+  "version": "1.0.0",
+  "description": "nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Uma Devi Palla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^8.3.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "request": "^2.88.2",
+    "should": "^13.2.3"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "book1" : {
+        "author" : "uma",
+        "title" : "JavaScript",
+        "publilshedDate" : "31/03/2021",
+        "id": 1
+    },
+    "book2" : {
+        "author" : "uma devi",
+        "title" : "Nodejs",
+        "publilshedDate" : "30/03/2021",
+        "id": 2
+    },
+    "book3" : {
+        "author" : "gayathri",
+        "title" : "angular",
+        "publilshedDate" : "01/03/2021",
+        "id": 3
+    }
+ }
